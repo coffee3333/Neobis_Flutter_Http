@@ -1,6 +1,6 @@
 # neobis_flutter_http
 
-A new Flutter project.
+A new Flutter project for Neobis interns, working with http.
 
 ## Getting Started
 
